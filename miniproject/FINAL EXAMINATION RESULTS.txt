@@ -1,0 +1,39 @@
+==================================================
+Student's Name Classroom
+zahir S1G2
+
+Linear Algebra and Discrete Mathematics : 80
+
+Multimedia System : 80
+
+Programming Technique : 80
+
+Computer Organization and Architecture : 80
+==================================================
+
+==================================================
+Student's Name Classroom
+Din S1G2
+
+Linear Algebra and Discrete Mathematics : 70
+
+Multimedia System : 70
+
+Programming Technique : 70
+
+Computer Organization and Architecture : 70
+==================================================
+
+==================================================
+Student's Name Classroom
+rudy S1G2
+
+Linear Algebra and Discrete Mathematics : 50
+
+Multimedia System : 50
+
+Programming Technique : 50
+
+Computer Organization and Architecture : 50
+==================================================
+
